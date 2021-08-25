@@ -1,5 +1,8 @@
 <center> <img align="center" src="https://i.imgur.com/etAk5yb.png" width="40%"> </center>
 
+<br>
+<br>
+
 ## Full stack developer & UX Designer.
 
 Software engineer wannabe with a focus on API & passionate about communities.<br>
