@@ -1,8 +1,8 @@
 <center> <img align="center" src="https://i.imgur.com/etAk5yb.png" width="40%"> </center>
 
-## Full stack developer & UX Designer.
+## Full stack developer & Snack destroyer.
 
-Software engineer wannabe with a focus on API & passionate about communities.<br>
+Software engineer wannabe with a focus on API/Integrations & passionate about communities.<br>
 Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/) 
 
 Started as a self-taught programmer, running few blogs & silly websites during the web 2.0 era.
