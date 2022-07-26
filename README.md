@@ -15,6 +15,7 @@ Luckly never stopped since.
 - 📚 Contact me if you're a starter, i might help you!
 <br>
 <br>
+Currently working on personal project: [@gethyperos](https://github.com/gethyperos)
 
 ## Skills
 #### Languages
