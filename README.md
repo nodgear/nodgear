@@ -13,7 +13,7 @@ Luckly never stopped since.
 - 📚 Contact me if you're a starter, i might help you!
 <br/>
 
-#### ~~Currently working on personal project~~ Sadly abandoning most of my personal projects due to financial problems: 
+#### ~~Currently working on personal project~~ Sadly abandoning most of my personal projects due to lac of time: 
 - [@gethyperos](https://github.com/gethyperos): A dashboard for easy installing, managing and access for home server apps
 - [@Awesome](https://github.com/nodgear/awesome): A topbar for windows, inspired by elementaryOS
 - [HyperTS](https://github.com/hyperts/hyper): Spiritual successor to Awesome, hackable and built with Typescript & C++ FFI, capable of managing widgets in run-time for the best DX
