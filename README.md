@@ -2,12 +2,8 @@
 
 ## Full stack developer & Ricing enjoyer.
 
-Software engineer wannabe with a focus on API/Integrations & passionate about communities.<br>
+Software engineer with focus on API/Integrations, Passionate about communities.<br />
 Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/) 
-
-Started as a self-taught programmer, running few blogs & silly websites during the web 2.0 era.
-The desire to build & automate stuff grew inside me while growing up until i got my first job as freelancer (purpose out of a joke).
-Luckly never stopped since.
 
 - 🌱 Learning Rust (or trying to)
 - 📚 Contact me if you're a starter, i might help you!
