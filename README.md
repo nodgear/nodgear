@@ -13,7 +13,9 @@ Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/)
 - [@gethyperos](https://github.com/gethyperos): A dashboard for easy installing, managing and access for home server apps
 - [@Awesome](https://github.com/nodgear/awesome): A topbar for windows, inspired by elementaryOS
 - [HyperTS](https://github.com/hyperts/hyper): Spiritual successor to Awesome, hackable and built with Typescript & C++ FFI, capable of managing widgets in run-time for the best DX
-- [@puray](https://puray.moe)
+- ~~[@puray](https://puray.moe) RIP~~
+- [Strikr](https://strikr.gg)
+- [MJSV](https://mjsv.io)
 
 ## Skills
 #### Languages
