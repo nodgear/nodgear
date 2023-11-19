@@ -10,7 +10,7 @@ Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/)
 <br/>
 
 #### ~~Currently working on personal project~~ Sadly abandoning most of my personal projects due to lac of time: 
-- [@gethyperos](https://github.com/gethyperos): A dashboard for easy installing, managing and access for home server apps
+- [@gethyperos](https://github.com/gethyperos): The ultimate home-server software aiming to facilitate managing them even if you don't have  docker knowledge.
 - [@Awesome](https://github.com/nodgear/awesome): A topbar for windows, inspired by elementaryOS
 - [HyperTS](https://github.com/hyperts/hyper): Spiritual successor to Awesome, hackable and built with Typescript & C++ FFI, capable of managing widgets in run-time for the best DX
 - ~~[@puray](https://puray.moe) RIP~~
