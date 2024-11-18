@@ -14,7 +14,7 @@ Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/)
 - [@Awesome](https://github.com/nodgear/awesome): A topbar for windows, inspired by elementaryOS
 - [HyperTS](https://github.com/hyperts/hyper): Spiritual successor to Awesome, hackable and built with Typescript & C++ FFI, capable of managing widgets in run-time for the best DX
 - ~~[@puray](https://puray.moe) RIP~~
-- [Strikr](https://strikr.gg): Analytics for Omega Strikers ~~Ended, R.I.P Omega Strikers~~
+- [Strikr](https://strikr.gg): Analytics for Omega Strikers **now lives @ [ClarionCorp](https://clarioncorp.net/)**
 - [MJSV](https://mjsv.io): Resilient hosting for gamers & tech newcomers.
 
 ## Skills
