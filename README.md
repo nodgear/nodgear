@@ -1,6 +1,6 @@
 <center> <img align="center" src="https://i.imgur.com/etAk5yb.png" width="40%"> </center>
 
-## Softare engineer, addicted to LUA and Typescript Andy.
+## Software engineer, addicted to LUA and Typescript Andy.
 
 Software engineer with focus on API/Integrations, Passionate about communities.<br />
 Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/) 
