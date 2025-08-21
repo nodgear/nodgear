@@ -1,17 +1,13 @@
 <center> <img align="center" src="https://i.imgur.com/etAk5yb.png" width="40%"> </center>
 
-## Software engineer, addicted to LUA and Typescript Andy.
+## Software engineer
 
-Software engineer with focus on API/Integrations, Passionate about communities.<br />
-Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/) 
+With focus on API/Integrations, Passionate about communities.<br /> 
 Doing tech [@MJSV](https://mjsv.io) providing affordable, resilient hosting for game servers and attack prone applications.
   
-There used to be a languages and frameworks section here, contact me if you need a solution.
-Languages are just tools.
+There used to be a languages and frameworks section here but i grew to believe that i make software solutions. Languages are just tools.<br />
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+I.S @ [@UniFTC](https://www.uniftc.edu.br/)
 
 ## Let's talk
 
